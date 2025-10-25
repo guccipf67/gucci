@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>my photo</title>
+    <style>
+      img{width: 500px;border-radius: 20%;}
+      body{text-align: center;
+            border-width:1px;
+            border-color: aqua;
+            border-style:solid;
+            border-radius:8px;
+            background-color: aquamarine}
+            h2{display:inline-block;
+            width: 80px;
+            padding:10px 0;
+            margin: 10px 0;
+            background:orange;}
+    </style>
+    <meta charset="UTF-8">
+    </head>
+    <body>
+        <img src="C:\Users\user\Desktop\code\bmw.jpeg"alt="画像"/>
+        <h1>カスタム内容</h1>
+        <p>ヘッドライト、フロントグリル、各エンブレムブラックアウト<br>
+        Mルックミラー、オーロラフィルム</p>
+        <a href="file:///C:/Users/user/Desktop/code/page1.html">
+        <h2>BACK</h2></a>
+        </body>
+</html> 
